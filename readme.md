@@ -6,6 +6,11 @@ This is a small app to read the data, analyze and then output the report in cons
 
 ## Setup
 
+Install the dependencies
+```
+npm install
+```
+
 Build the project
 
 ```
